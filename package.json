@@ -1,0 +1,16 @@
+{
+    "name": "@kamoa/tsconfig",
+    "version": "1.0.0",
+    "description": "TypeScript's config to be shared between our projects",
+    "license": "ISC",
+    "repository": "kamoa-services/tsconfig",
+    "author": {
+        "name": "kamoa-services"
+    },
+    "main": "tsconfig.json",
+    "engines": {
+        "node": ">=14"
+    },
+    "files": ["tsconfig.json"],
+    "keywords": ["tsconfig", "typescript", "ts", "config", "configuration"]
+}
